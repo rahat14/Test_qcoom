@@ -1,0 +1,84 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum",
+        "cover_photo": "https://i.picsum.photos/id/579/200/300.jpg?hmac=9MD8EV4Jl9EqKLkTj5kyNdBUKQWyHk2m4pE4UCBGc8Q",
+        "categories": [
+          "Business",
+          "Lifestyle"
+        ],
+        "author": {
+          "id": 1,
+          "name": "John Doe",
+          "avatar": "https://i.pravatar.cc/250",
+          "profession": "Content Writer"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry 2",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum 2",
+        "cover_photo": "https://i.picsum.photos/id/608/200/300.jpg?hmac=b-eDmVyhr3rI_4k3z2J_PNwOxEwSKa5EDC9uFH4jERU",
+        "categories": [
+          "Entertainment",
+          "Lifestyle"
+        ],
+        "author": {
+          "id": 2,
+          "name": "John Snow",
+          "avatar": "https://i.pravatar.cc/250",
+          "profession": "Content Writer"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum",
+        "cover_photo": "https://i.picsum.photos/id/579/200/300.jpg?hmac=9MD8EV4Jl9EqKLkTj5kyNdBUKQWyHk2m4pE4UCBGc8Q",
+        "categories": [
+          "Productivity",
+          "Lifestyle"
+        ],
+        "author": {
+          "id": 1,
+          "name": "John Doe",
+          "avatar": "https://i.pravatar.cc/250",
+          "profession": "Content Writer"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum",
+        "cover_photo": "https://i.picsum.photos/id/579/200/300.jpg?hmac=9MD8EV4Jl9EqKLkTj5kyNdBUKQWyHk2m4pE4UCBGc8Q",
+        "categories": [
+          "Business",
+          "Lifestyle"
+        ],
+        "author": {
+          "id": 1,
+          "name": "John Doe",
+          "avatar": "https://i.pravatar.cc/250",
+          "profession": "Content Writer"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum",
+        "cover_photo": "https://i.picsum.photos/id/579/200/300.jpg?hmac=9MD8EV4Jl9EqKLkTj5kyNdBUKQWyHk2m4pE4UCBGc8Q",
+        "categories": [
+          "Business",
+          "Lifestyle"
+        ],
+        "author": {
+          "id": 1,
+          "name": "John Doe",
+          "avatar": "https://i.pravatar.cc/250",
+          "profession": "Content Writer"
+        }
+      }
+    ]
+  }

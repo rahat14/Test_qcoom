@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test_GPS</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDtKxskoGcv22xBe1VKCxrOSOWzMqWbYgg</string>
+    <string name="enable_gps">\"Enable Gps\"</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="required_for_this_app">We Need GPS Service !</string>
+</resources>

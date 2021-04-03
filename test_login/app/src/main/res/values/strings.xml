@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">test_login</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tasks_and_assign">Tasks and assign</string>
+    <string name="bottom_task_text">Task and assign them to colleagues.</string>
+    <string name="get_started">Get Started</string>
+    <string name="wecom">Welcome back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="f_pas">Forgot Password</string>
+    <string name="join_us">Join Us</string>
+    <string name="don_t_ever_forget_your_task">Don\'t Ever Forget Your Task</string>
+    <string name="your_username">Your Username</string>
+    <string name="ForgotPassword">Forgot Password</string>
+    <string name="forget_pass_instruction">Please enter your email below to recevie your password reset instructions</string>
+    <string name="rest_code_instruction">Reset code was sent to your email. Please enter the code and creae new password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_code">Reset Code</string>
+    <string name="confrim_pass">Confirm Password</string>
+    <string name="succesful">Successful!</string>
+    <string name="success_bottom_text">You have succesfully change password. Please use your new passwords when logging in.</string>
+    <string name="login">Log In</string>
+</resources>
